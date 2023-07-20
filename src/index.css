@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    @apply bg-slate-300;
+}
+
+.active{
+     /* @apply text-blue-700; */
+  
+     font-weight: 600;
+}
+
+nav{
+    margin-right: 20px;
+}
