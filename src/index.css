@@ -3,7 +3,8 @@
 @tailwind utilities;
 
 body{
-    @apply bg-slate-300;
+   
+    padding: 100px;
 }
 
 .active{
